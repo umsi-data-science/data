@@ -1,0 +1,464 @@
+ID,prof_ID,score,age,bty_avg,gender,ethnicity,language,rank,pic_outfit,pic_color,cls_did_eval,cls_students,cls_level
+1,1,4.7,36,5,female,minority,english,tenure track,not formal,color,24,43,upper
+2,1,4.1,36,5,female,minority,english,tenure track,not formal,color,86,125,upper
+3,1,3.9,36,5,female,minority,english,tenure track,not formal,color,76,125,upper
+4,1,4.8,36,5,female,minority,english,tenure track,not formal,color,77,123,upper
+5,2,4.6,59,3,male,not minority,english,tenured,not formal,color,17,20,upper
+6,2,4.3,59,3,male,not minority,english,tenured,not formal,color,35,40,upper
+7,2,2.8,59,3,male,not minority,english,tenured,not formal,color,39,44,upper
+8,3,4.1,51,3.333,male,not minority,english,tenured,not formal,color,55,55,upper
+9,3,3.4,51,3.333,male,not minority,english,tenured,not formal,color,111,195,upper
+10,4,4.5,40,3.167,female,not minority,english,tenured,not formal,color,40,46,upper
+11,4,3.8,40,3.167,female,not minority,english,tenured,not formal,color,24,27,upper
+12,4,4.5,40,3.167,female,not minority,english,tenured,not formal,color,24,25,upper
+13,4,4.6,40,3.167,female,not minority,english,tenured,not formal,color,17,20,upper
+14,4,3.9,40,3.167,female,not minority,english,tenured,not formal,color,14,25,upper
+15,4,3.9,40,3.167,female,not minority,english,tenured,not formal,color,37,42,upper
+16,4,4.3,40,3.167,female,not minority,english,tenured,not formal,color,18,20,upper
+17,4,4.5,40,3.167,female,not minority,english,tenured,not formal,color,15,18,upper
+18,5,4.8,31,7.333,female,not minority,english,tenure track,not formal,color,42,48,upper
+19,5,4.6,31,7.333,female,not minority,english,tenure track,not formal,color,40,44,upper
+20,5,4.6,31,7.333,female,not minority,english,tenure track,not formal,color,38,48,upper
+21,5,4.9,31,7.333,female,not minority,english,tenure track,not formal,color,40,45,upper
+22,5,4.6,31,7.333,female,not minority,english,tenure track,not formal,color,52,59,upper
+23,5,4.5,31,7.333,female,not minority,english,tenure track,not formal,color,49,87,upper
+24,6,4.4,62,5.5,male,not minority,english,tenured,formal,color,182,282,upper
+25,6,4.6,62,5.5,male,not minority,english,tenured,formal,color,160,292,upper
+26,6,4.7,62,5.5,male,not minority,english,tenured,formal,color,79,130,upper
+27,6,4.5,62,5.5,male,not minority,english,tenured,formal,color,176,285,upper
+28,6,4.8,62,5.5,male,not minority,english,tenured,formal,color,155,272,upper
+29,6,4.9,62,5.5,male,not minority,english,tenured,formal,color,166,286,upper
+30,6,4.5,62,5.5,male,not minority,english,tenured,formal,color,186,302,upper
+31,7,4.4,33,4.167,female,not minority,english,tenure track,not formal,color,33,41,upper
+32,7,4.3,33,4.167,female,not minority,english,tenure track,not formal,color,29,34,upper
+33,7,4.1,33,4.167,female,not minority,english,tenure track,not formal,color,37,41,upper
+34,7,4.2,33,4.167,female,not minority,english,tenure track,not formal,color,29,41,upper
+35,7,3.5,33,4.167,female,not minority,english,tenure track,not formal,color,28,34,upper
+36,8,3.4,51,4,female,not minority,english,tenured,not formal,color,25,41,upper
+37,8,4.5,51,4,female,not minority,english,tenured,not formal,color,21,22,upper
+38,8,4.4,51,4,female,not minority,english,tenured,not formal,color,13,21,upper
+39,8,4.4,51,4,female,not minority,english,tenured,not formal,color,16,17,upper
+40,8,2.5,51,4,female,not minority,english,tenured,not formal,color,24,30,lower
+41,8,4.3,51,4,female,not minority,english,tenured,not formal,color,23,23,upper
+42,8,4.5,51,4,female,not minority,english,tenured,not formal,color,20,20,upper
+43,9,4.8,33,4.667,female,not minority,english,tenure track,not formal,color,48,60,upper
+44,9,4.8,33,4.667,female,not minority,english,tenure track,not formal,color,29,33,upper
+45,9,4.4,33,4.667,female,not minority,english,tenure track,not formal,color,11,44,upper
+46,9,4.7,33,4.667,female,not minority,english,tenure track,not formal,color,29,49,upper
+47,9,4.4,33,4.667,female,not minority,english,tenure track,not formal,color,25,29,upper
+48,9,4.7,33,4.667,female,not minority,english,tenure track,not formal,color,42,48,upper
+49,9,4.5,33,4.667,female,not minority,english,tenure track,not formal,color,34,40,upper
+50,10,4,47,5.5,male,not minority,english,teaching,not formal,color,16,19,upper
+51,10,4.3,47,5.5,male,not minority,english,teaching,not formal,color,12,16,upper
+52,10,4.4,47,5.5,male,not minority,english,teaching,not formal,color,14,15,upper
+53,10,4.5,47,5.5,male,not minority,english,teaching,not formal,color,22,23,upper
+54,10,5,47,5.5,male,not minority,english,teaching,not formal,color,10,11,lower
+55,10,4.9,47,5.5,male,not minority,english,teaching,not formal,color,17,29,lower
+56,10,4.6,47,5.5,male,not minority,english,teaching,not formal,color,16,21,upper
+57,10,5,47,5.5,male,not minority,english,teaching,not formal,color,15,18,lower
+58,10,4.7,47,5.5,male,not minority,english,teaching,not formal,color,16,19,upper
+59,10,5,47,5.5,male,not minority,english,teaching,not formal,color,16,20,lower
+60,11,3.6,35,4.833,male,minority,non-english,tenure track,not formal,color,18,25,upper
+61,11,3.7,35,4.833,male,minority,non-english,tenure track,not formal,color,30,33,upper
+62,11,4.3,35,4.833,male,minority,non-english,tenure track,not formal,color,23,24,upper
+63,12,4.1,37,4.333,male,not minority,english,teaching,not formal,color,30,34,upper
+64,12,4.2,37,4.333,male,not minority,english,teaching,not formal,color,13,21,upper
+65,12,4.7,37,4.333,male,not minority,english,teaching,not formal,color,24,30,upper
+66,12,4.7,37,4.333,male,not minority,english,teaching,not formal,color,24,25,upper
+67,12,3.5,37,4.333,male,not minority,english,teaching,not formal,color,25,35,upper
+68,13,4.1,42,4.833,male,not minority,english,tenured,not formal,color,28,40,upper
+69,13,4.2,42,4.833,male,not minority,english,tenured,not formal,color,18,30,upper
+70,13,4,42,4.833,male,not minority,english,tenured,not formal,color,28,42,upper
+71,13,4,42,4.833,male,not minority,english,tenured,not formal,color,25,57,upper
+72,13,3.9,42,4.833,male,not minority,english,tenured,not formal,color,40,57,upper
+73,13,4.4,42,4.833,male,not minority,english,tenured,not formal,color,40,51,upper
+74,13,3.8,42,4.833,male,not minority,english,tenured,not formal,color,18,30,upper
+75,14,3.5,49,4,male,not minority,non-english,tenured,not formal,color,30,36,upper
+76,14,4.2,49,4,male,not minority,non-english,tenured,not formal,color,31,37,upper
+77,14,3.5,49,4,male,not minority,non-english,tenured,not formal,color,15,29,upper
+78,14,3.6,49,4,male,not minority,non-english,tenured,not formal,color,23,27,upper
+79,15,2.9,37,5.5,female,not minority,english,tenure track,not formal,color,23,28,upper
+80,15,3.3,37,5.5,female,not minority,english,tenure track,not formal,color,34,52,upper
+81,15,3.3,37,5.5,female,not minority,english,tenure track,not formal,color,21,26,upper
+82,15,3.2,37,5.5,female,not minority,english,tenure track,not formal,color,29,30,upper
+83,16,4.6,45,4.167,male,not minority,english,tenured,not formal,color,23,33,upper
+84,16,4.2,45,4.167,male,not minority,english,tenured,not formal,color,45,177,lower
+85,16,4.3,45,4.167,male,not minority,english,tenured,not formal,color,90,199,lower
+86,16,4.4,45,4.167,male,not minority,english,tenured,not formal,color,27,32,upper
+87,16,4.1,45,4.167,male,not minority,english,tenured,not formal,color,35,37,upper
+88,16,4.6,45,4.167,male,not minority,english,tenured,not formal,color,120,161,lower
+89,17,4.4,56,2.5,female,not minority,english,teaching,not formal,color,27,41,upper
+90,17,4.8,56,2.5,female,not minority,english,teaching,not formal,color,39,44,upper
+91,17,4.3,56,2.5,female,not minority,english,teaching,not formal,color,35,53,upper
+92,17,3.6,56,2.5,female,not minority,english,teaching,not formal,color,34,49,upper
+93,17,4.3,56,2.5,female,not minority,english,teaching,not formal,color,27,32,upper
+94,18,4,48,4.333,male,not minority,english,teaching,not formal,color,100,135,lower
+95,18,4.2,48,4.333,male,not minority,english,teaching,not formal,color,20,33,upper
+96,18,4.1,48,4.333,male,not minority,english,teaching,not formal,color,14,19,upper
+97,18,4.1,48,4.333,male,not minority,english,teaching,not formal,color,65,111,lower
+98,18,4.4,48,4.333,male,not minority,english,teaching,not formal,color,95,149,lower
+99,18,4.3,48,4.333,male,not minority,english,teaching,not formal,color,18,27,upper
+100,18,4.4,48,4.333,male,not minority,english,teaching,not formal,color,85,136,lower
+101,18,4.4,48,4.333,male,not minority,english,teaching,not formal,color,113,140,lower
+102,19,4.9,46,4.333,female,not minority,english,tenured,not formal,black&white,25,31,upper
+103,19,5,46,4.333,female,not minority,english,tenured,not formal,black&white,14,15,lower
+104,19,4.4,46,4.333,female,not minority,english,tenured,not formal,black&white,23,29,upper
+105,19,4.8,46,4.333,female,not minority,english,tenured,not formal,black&white,23,25,upper
+106,19,4.9,46,4.333,female,not minority,english,tenured,not formal,black&white,9,18,upper
+107,19,4.3,46,4.333,female,not minority,english,tenured,not formal,black&white,30,45,upper
+108,19,5,46,4.333,female,not minority,english,tenured,not formal,black&white,15,15,lower
+109,19,4.7,46,4.333,female,not minority,english,tenured,not formal,black&white,31,38,upper
+110,19,4.5,46,4.333,female,not minority,english,tenured,not formal,black&white,12,15,lower
+111,20,3.5,57,4.333,female,not minority,english,teaching,not formal,color,17,28,upper
+112,20,3.9,57,4.333,female,not minority,english,teaching,not formal,color,10,23,upper
+113,20,4,57,4.333,female,not minority,english,teaching,not formal,color,15,19,upper
+114,20,4,57,4.333,female,not minority,english,teaching,not formal,color,7,23,upper
+115,20,3.7,57,4.333,female,not minority,english,teaching,not formal,color,7,22,upper
+116,20,3.4,57,4.333,female,not minority,english,teaching,not formal,color,14,20,upper
+117,20,3.3,57,4.333,female,not minority,english,teaching,not formal,color,8,19,upper
+118,20,3.8,57,4.333,female,not minority,english,teaching,not formal,color,17,23,upper
+119,20,3.9,57,4.333,female,not minority,english,teaching,not formal,color,10,22,upper
+120,20,3.4,57,4.333,female,not minority,english,teaching,not formal,color,12,15,upper
+121,21,3.7,52,4.833,female,not minority,english,teaching,not formal,color,19,22,upper
+122,21,4.1,52,4.833,female,not minority,english,teaching,not formal,color,27,31,upper
+123,21,3.7,52,4.833,female,not minority,english,teaching,not formal,color,20,21,upper
+124,21,3.5,52,4.833,female,not minority,english,teaching,not formal,color,31,36,upper
+125,21,3.5,52,4.833,female,not minority,english,teaching,not formal,color,17,19,upper
+126,21,4.4,52,4.833,female,not minority,english,teaching,not formal,color,23,37,upper
+127,22,3.4,29,2.833,female,minority,non-english,tenure track,not formal,color,19,26,upper
+128,23,4.3,62,3,male,not minority,english,tenured,not formal,color,30,39,upper
+129,23,3.7,62,3,male,not minority,english,tenured,not formal,color,94,184,lower
+130,23,4.7,62,3,male,not minority,english,tenured,not formal,color,46,50,upper
+131,23,3.9,62,3,male,not minority,english,tenured,not formal,color,80,157,lower
+132,23,3.6,62,3,male,not minority,english,tenured,not formal,color,61,164,lower
+133,24,4.5,64,4.167,male,not minority,english,tenured,not formal,color,15,24,upper
+134,24,4.5,64,4.167,male,not minority,english,tenured,not formal,color,51,68,upper
+135,24,4.8,64,4.167,male,not minority,english,tenured,not formal,color,22,47,upper
+136,24,4.8,64,4.167,male,not minority,english,tenured,not formal,color,10,14,upper
+137,24,4.7,64,4.167,male,not minority,english,tenured,not formal,color,11,15,upper
+138,24,4.5,64,4.167,male,not minority,english,tenured,not formal,color,15,24,upper
+139,24,4.3,64,4.167,male,not minority,english,tenured,not formal,color,21,39,upper
+140,25,4.8,34,7.833,female,not minority,english,tenure track,not formal,color,20,26,upper
+141,25,4.1,34,7.833,female,not minority,english,tenure track,not formal,color,33,40,upper
+142,26,4.4,58,3.833,male,not minority,english,tenured,not formal,color,84,159,upper
+143,26,4.3,58,3.833,male,not minority,english,tenured,not formal,color,71,151,upper
+144,26,3.6,58,3.833,male,not minority,english,tenured,not formal,color,36,47,lower
+145,26,4.5,58,3.833,male,not minority,english,tenured,not formal,color,73,122,upper
+146,26,4.3,58,3.833,male,not minority,english,tenured,not formal,color,31,45,lower
+147,27,4.4,52,4.833,male,minority,non-english,tenured,formal,color,13,16,upper
+148,27,4.7,52,4.833,male,minority,non-english,tenured,formal,color,23,23,upper
+149,27,4.8,52,4.833,male,minority,non-english,tenured,formal,color,12,16,upper
+150,27,3.5,52,4.833,male,minority,non-english,tenured,formal,color,15,18,upper
+151,27,3.8,52,4.833,male,minority,non-english,tenured,formal,color,11,16,upper
+152,27,3.6,52,4.833,male,minority,non-english,tenured,formal,color,12,15,upper
+153,27,4.2,52,4.833,male,minority,non-english,tenured,formal,color,18,28,upper
+154,28,3.6,73,3,male,not minority,english,tenured,formal,color,12,17,upper
+155,28,4.4,73,3,male,not minority,english,tenured,formal,color,10,13,upper
+156,28,3.7,73,3,male,not minority,english,tenured,formal,color,16,21,upper
+157,28,4.3,73,3,male,not minority,english,tenured,formal,color,13,17,upper
+158,29,4.6,70,3,male,not minority,english,tenured,formal,color,47,134,upper
+159,29,4.6,70,3,male,not minority,english,tenured,formal,color,5,48,upper
+160,29,4.1,70,3,male,not minority,english,tenured,formal,color,34,64,upper
+161,29,3.6,70,3,male,not minority,english,tenured,formal,color,24,69,upper
+162,30,2.3,41,5.167,female,not minority,english,tenure track,not formal,color,10,12,upper
+163,31,4.3,63,4.333,male,not minority,english,teaching,not formal,color,28,43,upper
+164,31,4.4,63,4.333,male,not minority,english,teaching,not formal,color,11,14,upper
+165,31,3.6,63,4.333,male,not minority,english,teaching,not formal,color,10,15,upper
+166,31,4.4,63,4.333,male,not minority,english,teaching,not formal,color,14,18,upper
+167,31,3.9,63,4.333,male,not minority,english,teaching,not formal,color,12,16,upper
+168,31,3.8,63,4.333,male,not minority,english,teaching,not formal,color,8,10,upper
+169,31,3.4,63,4.333,male,not minority,english,teaching,not formal,color,23,47,upper
+170,32,4.9,47,2.667,male,not minority,english,tenured,not formal,color,10,15,upper
+171,32,4.1,47,2.667,male,not minority,english,tenured,not formal,color,10,14,upper
+172,32,3.2,47,2.667,male,not minority,english,tenured,not formal,color,10,12,upper
+173,33,4.2,39,5.5,male,not minority,english,tenured,not formal,color,86,246,lower
+174,33,3.9,39,5.5,male,not minority,english,tenured,not formal,color,154,316,lower
+175,33,4.9,39,5.5,male,not minority,english,tenured,not formal,color,12,15,upper
+176,33,4.7,39,5.5,male,not minority,english,tenured,not formal,color,14,15,upper
+177,33,4.4,39,5.5,male,not minority,english,tenured,not formal,color,27,29,upper
+178,34,4.2,47,4.333,female,minority,english,tenure track,not formal,color,21,21,lower
+179,34,4,47,4.333,female,minority,english,tenure track,not formal,color,8,8,upper
+180,34,4.4,47,4.333,female,minority,english,tenure track,not formal,color,16,16,lower
+181,34,3.9,47,4.333,female,minority,english,tenure track,not formal,color,24,26,lower
+182,34,4.4,47,4.333,female,minority,english,tenure track,not formal,color,7,10,upper
+183,34,3,47,4.333,female,minority,english,tenure track,not formal,color,25,26,lower
+184,34,3.5,47,4.333,female,minority,english,tenure track,not formal,color,24,26,lower
+185,34,2.8,47,4.333,female,minority,english,tenure track,not formal,color,24,26,lower
+186,34,4.6,47,4.333,female,minority,english,tenure track,not formal,color,20,21,lower
+187,34,4.3,47,4.333,female,minority,english,tenure track,not formal,color,12,12,lower
+188,34,3.4,47,4.333,female,minority,english,tenure track,not formal,color,25,27,lower
+189,34,3,47,4.333,female,minority,english,tenure track,not formal,color,26,27,lower
+190,34,4.2,47,4.333,female,minority,english,tenure track,not formal,color,24,25,lower
+191,35,4.3,54,2.333,male,not minority,english,tenured,formal,color,15,15,upper
+192,35,4.1,54,2.333,male,not minority,english,tenured,formal,color,10,15,upper
+193,35,4.6,54,2.333,male,not minority,english,tenured,formal,color,16,17,upper
+194,36,3.9,44,6.5,female,minority,english,tenured,not formal,color,30,55,upper
+195,36,3.5,44,6.5,female,minority,english,tenured,not formal,color,35,48,upper
+196,36,4,44,6.5,female,minority,english,tenured,not formal,color,21,21,upper
+197,36,4,44,6.5,female,minority,english,tenured,not formal,color,35,39,upper
+198,37,3.9,47,2.333,male,minority,english,tenured,not formal,color,20,27,upper
+199,37,3.3,47,2.333,male,minority,english,tenured,not formal,color,9,14,upper
+200,37,4,47,2.333,male,minority,english,tenured,not formal,color,21,26,upper
+201,37,3.8,47,2.333,male,minority,english,tenured,not formal,color,13,16,upper
+202,37,4.2,47,2.333,male,minority,english,tenured,not formal,color,13,16,upper
+203,37,4,47,2.333,male,minority,english,tenured,not formal,color,12,13,upper
+204,37,3.8,47,2.333,male,minority,english,tenured,not formal,color,14,14,upper
+205,37,3.3,47,2.333,male,minority,english,tenured,not formal,color,15,17,upper
+206,23,4.1,62,3,male,not minority,english,tenured,formal,color,12,13,upper
+207,23,4.7,62,3,male,not minority,english,tenured,formal,color,13,15,upper
+208,23,4.4,62,3,male,not minority,english,tenured,formal,color,7,10,upper
+209,38,4.8,60,3.667,male,not minority,english,tenured,not formal,color,25,34,upper
+210,38,4.8,60,3.667,male,not minority,english,tenured,not formal,color,12,16,upper
+211,38,4.6,60,3.667,male,not minority,english,tenured,not formal,color,11,14,upper
+212,38,4.6,60,3.667,male,not minority,english,tenured,not formal,color,8,12,upper
+213,38,4.8,60,3.667,male,not minority,english,tenured,not formal,color,24,39,upper
+214,38,4.4,60,3.667,male,not minority,english,tenured,not formal,color,15,35,upper
+215,38,4.7,60,3.667,male,not minority,english,tenured,not formal,color,31,45,upper
+216,38,4.7,60,3.667,male,not minority,english,tenured,not formal,color,36,45,lower
+217,39,3.3,37,6.167,male,not minority,english,tenure track,not formal,color,15,17,upper
+218,40,4.4,42,4,male,not minority,english,tenure track,not formal,color,13,14,upper
+219,40,4.3,42,4,male,not minority,english,tenure track,not formal,color,14,14,upper
+220,40,4.9,42,4,male,not minority,english,tenure track,not formal,color,13,14,upper
+221,40,4.4,42,4,male,not minority,english,tenure track,not formal,color,12,12,upper
+222,40,4.7,42,4,male,not minority,english,tenure track,not formal,color,13,15,upper
+223,41,4.3,35,4.833,male,not minority,english,tenured,not formal,color,42,51,upper
+224,41,4.8,35,4.833,male,not minority,english,tenured,not formal,color,21,23,lower
+225,41,4.5,35,4.833,male,not minority,english,tenured,not formal,color,49,57,upper
+226,41,4.7,35,4.833,male,not minority,english,tenured,not formal,color,44,50,lower
+227,42,3.3,39,8.167,female,not minority,english,teaching,not formal,color,22,24,lower
+228,42,4.7,39,8.167,female,not minority,english,teaching,not formal,color,18,23,upper
+229,42,4.6,39,8.167,female,not minority,english,teaching,not formal,color,20,23,upper
+230,42,3.6,39,8.167,female,not minority,english,teaching,not formal,color,27,28,lower
+231,43,4,49,6.5,male,not minority,english,tenured,formal,color,28,45,upper
+232,43,4.1,49,6.5,male,not minority,english,tenured,formal,color,27,42,upper
+233,43,4,49,6.5,male,not minority,english,tenured,formal,color,49,57,upper
+234,44,4.5,61,4.833,male,not minority,english,tenured,formal,color,22,27,lower
+235,44,4.6,61,4.833,male,not minority,english,tenured,formal,color,31,38,upper
+236,44,4.8,61,4.833,male,not minority,english,tenured,formal,color,19,22,lower
+237,44,4.6,61,4.833,male,not minority,english,tenured,formal,color,27,43,upper
+238,45,4.9,33,7,male,not minority,english,tenure track,formal,color,30,31,upper
+239,45,3.1,33,7,male,not minority,english,tenure track,formal,color,12,13,upper
+240,45,3.7,33,7,male,not minority,english,tenure track,formal,color,13,15,upper
+241,46,3.7,58,4.667,female,not minority,english,tenured,formal,black&white,26,34,upper
+242,47,3.9,56,3.833,female,not minority,english,tenured,formal,color,12,19,upper
+243,47,3.9,56,3.833,female,not minority,english,tenured,formal,color,16,20,upper
+244,47,3.2,56,3.833,female,not minority,english,tenured,formal,color,17,23,upper
+245,48,4.4,50,3.167,female,not minority,english,teaching,not formal,color,22,27,lower
+246,48,4.2,50,3.167,female,not minority,english,teaching,not formal,color,24,32,lower
+247,48,4.7,50,3.167,female,not minority,english,teaching,not formal,color,14,21,lower
+248,48,3.9,50,3.167,female,not minority,english,teaching,not formal,color,23,24,upper
+249,48,3.6,50,3.167,female,not minority,english,teaching,not formal,color,19,21,upper
+250,48,3.4,50,3.167,female,not minority,english,teaching,not formal,color,18,28,upper
+251,48,4.4,50,3.167,female,not minority,english,teaching,not formal,color,23,29,upper
+252,49,4.4,52,3.167,male,not minority,english,tenured,not formal,color,57,67,upper
+253,49,4.1,52,3.167,male,not minority,english,tenured,not formal,color,81,89,upper
+254,49,3.6,52,3.167,male,not minority,english,tenured,not formal,color,74,82,upper
+255,49,3.5,52,3.167,male,not minority,english,tenured,not formal,color,102,122,upper
+256,49,4.1,52,3.167,male,not minority,english,tenured,not formal,color,94,131,upper
+257,49,3.8,52,3.167,male,not minority,english,tenured,not formal,color,89,114,upper
+258,49,4,52,3.167,male,not minority,english,tenured,not formal,color,133,149,upper
+259,49,4.8,52,3.167,male,not minority,english,tenured,not formal,color,22,23,upper
+260,49,4.2,52,3.167,male,not minority,english,tenured,not formal,color,78,98,upper
+261,49,4.6,52,3.167,male,not minority,english,tenured,not formal,color,22,27,upper
+262,49,4.3,52,3.167,male,not minority,english,tenured,not formal,color,27,30,upper
+263,49,4.8,52,3.167,male,not minority,english,tenured,not formal,color,27,30,upper
+264,49,3.8,52,3.167,male,not minority,english,tenured,not formal,color,60,69,upper
+265,50,4.5,33,5.833,female,not minority,english,tenure track,not formal,black&white,10,15,upper
+266,50,4.9,33,5.833,female,not minority,english,tenure track,not formal,black&white,10,10,upper
+267,50,4.9,33,5.833,female,not minority,english,tenure track,not formal,black&white,10,11,upper
+268,50,4.8,33,5.833,female,not minority,english,tenure track,not formal,black&white,10,14,upper
+269,50,4.7,33,5.833,female,not minority,english,tenure track,not formal,black&white,7,11,upper
+270,50,4.6,33,5.833,female,not minority,english,tenure track,not formal,black&white,14,14,upper
+271,51,4.3,57,5.667,male,not minority,english,tenured,not formal,black&white,69,77,upper
+272,51,4.4,57,5.667,male,not minority,english,tenured,not formal,black&white,36,41,upper
+273,51,4.5,57,5.667,male,not minority,english,tenured,not formal,black&white,72,88,upper
+274,51,4.2,57,5.667,male,not minority,english,tenured,not formal,black&white,63,78,upper
+275,52,4.8,38,6.5,female,not minority,english,tenured,formal,black&white,46,65,upper
+276,52,4.6,38,6.5,female,not minority,english,tenured,formal,black&white,109,157,lower
+277,52,4.9,38,6.5,female,not minority,english,tenured,formal,black&white,54,68,upper
+278,52,4.8,38,6.5,female,not minority,english,tenured,formal,black&white,51,67,upper
+279,52,4.8,38,6.5,female,not minority,english,tenured,formal,black&white,61,80,upper
+280,52,4.6,38,6.5,female,not minority,english,tenured,formal,black&white,102,137,lower
+281,52,4.7,38,6.5,female,not minority,english,tenured,formal,black&white,58,69,upper
+282,53,4.1,34,1.667,female,not minority,english,tenure track,not formal,color,54,91,lower
+283,53,3.8,34,1.667,female,not minority,english,tenure track,not formal,color,46,80,lower
+284,53,4,34,1.667,female,not minority,english,tenure track,not formal,color,53,90,lower
+285,53,4.1,34,1.667,female,not minority,english,tenure track,not formal,color,19,34,upper
+286,53,4,34,1.667,female,not minority,english,tenure track,not formal,color,41,73,upper
+287,53,4.1,34,1.667,female,not minority,english,tenure track,not formal,color,25,44,upper
+288,54,3.5,34,6.667,male,not minority,english,tenure track,not formal,color,24,36,upper
+289,54,4.1,34,6.667,male,not minority,english,tenure track,not formal,color,16,20,upper
+290,54,3.6,34,6.667,male,not minority,english,tenure track,not formal,color,20,35,lower
+291,55,4,32,3.667,male,not minority,english,tenure track,formal,black&white,85,248,lower
+292,55,3.9,32,3.667,male,not minority,english,tenure track,formal,black&white,69,168,lower
+293,55,3.8,32,3.667,male,not minority,english,tenure track,formal,black&white,98,247,lower
+294,56,4.4,32,3.833,male,not minority,english,tenure track,formal,black&white,20,22,upper
+295,56,4.7,32,3.833,male,not minority,english,tenure track,formal,black&white,72,103,upper
+296,57,3.8,42,6.167,female,not minority,english,tenured,not formal,color,44,62,lower
+297,57,4.1,42,6.167,female,not minority,english,tenured,not formal,color,51,82,upper
+298,58,4.1,43,3.333,female,not minority,english,tenured,not formal,color,35,51,lower
+299,58,4.7,43,3.333,female,not minority,english,tenured,not formal,color,18,35,upper
+300,58,4.3,43,3.333,female,not minority,english,tenured,not formal,color,26,34,lower
+301,58,4.4,43,3.333,female,not minority,english,tenured,not formal,color,28,37,lower
+302,58,4.5,43,3.333,female,not minority,english,tenured,not formal,color,13,14,lower
+303,58,3.1,43,3.333,female,not minority,english,tenured,not formal,color,174,266,lower
+304,58,3.7,43,3.333,female,not minority,english,tenured,not formal,color,171,254,lower
+305,58,4.5,43,3.333,female,not minority,english,tenured,not formal,color,10,13,upper
+306,58,3,43,3.333,female,not minority,english,tenured,not formal,color,166,282,lower
+307,58,4.6,43,3.333,female,not minority,english,tenured,not formal,color,17,17,upper
+308,59,3.7,35,3.667,male,not minority,non-english,tenure track,not formal,black&white,11,19,upper
+309,59,3.6,35,3.667,male,not minority,non-english,tenure track,not formal,black&white,22,42,lower
+310,60,3.2,62,3.5,female,not minority,english,tenured,not formal,color,22,27,upper
+311,60,3.3,62,3.5,female,not minority,english,tenured,not formal,color,9,16,upper
+312,60,2.9,62,3.5,female,not minority,english,tenured,not formal,color,14,19,upper
+313,61,4.2,42,2.667,male,not minority,english,tenured,not formal,color,45,86,upper
+314,62,4.5,39,5.667,male,not minority,english,tenured,not formal,color,22,29,upper
+315,63,3.8,52,6,female,not minority,english,tenured,formal,black&white,64,88,upper
+316,63,3.7,52,6,female,not minority,english,tenured,formal,black&white,70,98,upper
+317,64,3.7,52,6.5,female,not minority,english,tenured,not formal,black&white,31,44,upper
+318,64,4,52,6.5,female,not minority,english,tenured,not formal,black&white,49,65,upper
+319,64,3.7,52,6.5,female,not minority,english,tenured,not formal,black&white,32,63,upper
+320,65,4.5,52,2.333,female,not minority,english,teaching,not formal,color,59,75,upper
+321,65,3.8,52,2.333,female,not minority,english,teaching,not formal,color,35,43,upper
+322,65,3.9,52,2.333,female,not minority,english,teaching,not formal,color,59,80,upper
+323,65,4.6,52,2.333,female,not minority,english,teaching,not formal,color,45,52,upper
+324,65,4.5,52,2.333,female,not minority,english,teaching,not formal,color,34,48,upper
+325,65,4.2,52,2.333,female,not minority,english,teaching,not formal,color,50,66,upper
+326,65,4,52,2.333,female,not minority,english,teaching,not formal,color,67,100,upper
+327,66,3.8,64,2.333,male,not minority,english,tenured,not formal,color,9,11,upper
+328,66,3.5,64,2.333,male,not minority,english,tenured,not formal,color,8,16,upper
+329,66,2.7,64,2.333,male,not minority,english,tenured,not formal,color,18,22,upper
+330,66,4,64,2.333,male,not minority,english,tenured,not formal,color,5,11,upper
+331,66,4.6,64,2.333,male,not minority,english,tenured,not formal,color,5,10,upper
+332,66,3.9,64,2.333,male,not minority,english,tenured,not formal,color,16,16,upper
+333,67,4.5,50,7.167,male,not minority,english,tenured,not formal,color,15,16,upper
+334,67,3.7,50,7.167,male,not minority,english,tenured,not formal,color,9,10,upper
+335,68,2.4,60,1.667,male,not minority,english,tenured,not formal,color,23,32,upper
+336,68,3.1,60,1.667,male,not minority,english,tenured,not formal,color,7,10,upper
+337,68,2.5,60,1.667,male,not minority,english,tenured,not formal,color,10,16,upper
+338,69,3,51,5.167,female,not minority,english,tenured,formal,color,47,67,upper
+339,70,4.5,43,3.5,male,not minority,english,tenure track,not formal,color,19,22,lower
+340,70,4.8,43,3.5,male,not minority,english,tenure track,not formal,color,15,28,lower
+341,70,4.9,43,3.5,male,not minority,english,tenure track,not formal,color,18,30,lower
+342,70,4.5,43,3.5,male,not minority,english,tenure track,not formal,color,11,15,lower
+343,70,4.6,43,3.5,male,not minority,english,tenure track,not formal,color,10,13,lower
+344,70,4.5,43,3.5,male,not minority,english,tenure track,not formal,color,17,18,lower
+345,70,4.9,43,3.5,male,not minority,english,tenure track,not formal,color,22,26,lower
+346,70,4.4,43,3.5,male,not minority,english,tenure track,not formal,color,18,30,lower
+347,70,4.6,43,3.5,male,not minority,english,tenure track,not formal,color,14,14,lower
+348,71,4.6,50,3.333,male,minority,english,teaching,not formal,color,17,24,lower
+349,71,5,50,3.333,male,minority,english,teaching,not formal,color,20,22,lower
+350,71,4.9,50,3.333,male,minority,english,teaching,not formal,color,21,25,lower
+351,71,4.6,50,3.333,male,minority,english,teaching,not formal,color,23,26,lower
+352,71,4.8,50,3.333,male,minority,english,teaching,not formal,color,19,22,lower
+353,71,4.9,50,3.333,male,minority,english,teaching,not formal,color,20,26,lower
+354,71,4.9,50,3.333,male,minority,english,teaching,not formal,color,17,20,lower
+355,71,4.9,50,3.333,male,minority,english,teaching,not formal,color,18,22,lower
+356,71,5,50,3.333,male,minority,english,teaching,not formal,color,20,21,lower
+357,71,4.5,50,3.333,male,minority,english,teaching,not formal,color,19,21,lower
+358,72,3.5,52,5.833,male,not minority,english,tenured,not formal,color,46,69,upper
+359,72,3.8,52,5.833,male,not minority,english,tenured,not formal,color,46,65,upper
+360,72,3.9,52,5.833,male,not minority,english,tenured,not formal,color,39,62,upper
+361,72,3.9,52,5.833,male,not minority,english,tenured,not formal,color,34,67,upper
+362,72,4.2,52,5.833,male,not minority,english,tenured,not formal,color,29,40,upper
+363,72,4.1,52,5.833,male,not minority,english,tenured,not formal,color,27,45,upper
+364,73,4.8,51,6.167,male,not minority,english,tenured,formal,color,348,574,lower
+365,73,4.8,51,6.167,male,not minority,english,tenured,formal,color,372,579,lower
+366,73,4.8,51,6.167,male,not minority,english,tenured,formal,color,343,537,lower
+367,73,4.8,51,6.167,male,not minority,english,tenured,formal,color,380,581,lower
+368,73,4.9,51,6.167,male,not minority,english,tenured,formal,color,322,527,lower
+369,74,4.2,38,3.333,male,not minority,english,tenured,not formal,color,44,87,lower
+370,74,4.5,38,3.333,male,not minority,english,tenured,not formal,color,66,84,lower
+371,74,3.9,38,3.333,male,not minority,english,tenured,not formal,color,40,79,lower
+372,74,4.4,38,3.333,male,not minority,english,tenured,not formal,color,60,92,lower
+373,75,4,47,5.167,female,not minority,english,tenured,formal,color,19,24,lower
+374,75,3.6,47,5.167,female,not minority,english,tenured,formal,color,38,67,lower
+375,76,3.7,43,4.167,female,minority,english,tenured,formal,color,47,103,lower
+376,76,2.7,43,4.167,female,minority,english,tenured,formal,color,93,190,lower
+377,77,4.5,38,2.5,female,not minority,english,teaching,not formal,color,33,68,lower
+378,77,4.4,38,2.5,female,not minority,english,teaching,not formal,color,36,60,lower
+379,77,3.9,38,2.5,female,not minority,english,teaching,not formal,color,29,64,lower
+380,77,3.6,38,2.5,female,not minority,english,teaching,not formal,color,23,31,lower
+381,77,4.4,38,2.5,female,not minority,english,teaching,not formal,color,36,62,lower
+382,77,4.4,38,2.5,female,not minority,english,teaching,not formal,color,30,37,lower
+383,78,4.7,43,4.333,male,not minority,english,tenured,formal,color,10,13,lower
+384,78,4.5,43,4.333,male,not minority,english,tenured,formal,color,8,13,lower
+385,78,4.1,43,4.333,male,not minority,english,tenured,formal,color,12,15,upper
+386,78,3.7,43,4.333,male,not minority,english,tenured,formal,color,65,79,upper
+387,79,4.3,57,3,male,not minority,english,tenured,not formal,color,7,13,upper
+388,79,3.5,57,3,male,not minority,english,tenured,not formal,color,53,98,upper
+389,79,3.7,57,3,male,not minority,english,tenured,not formal,color,58,97,upper
+390,80,4,51,6.333,female,not minority,english,tenured,not formal,color,9,11,upper
+391,80,4,51,6.333,female,not minority,english,tenured,not formal,color,67,78,upper
+392,80,3.1,51,6.333,female,not minority,english,tenured,not formal,color,36,56,upper
+393,80,4.5,51,6.333,female,not minority,english,tenured,not formal,color,17,20,upper
+394,81,4.8,45,3.333,male,not minority,english,teaching,not formal,color,12,17,lower
+395,81,4.2,45,3.333,male,not minority,english,teaching,not formal,color,17,20,lower
+396,81,4.9,45,3.333,male,not minority,english,teaching,not formal,color,13,19,lower
+397,81,4.8,45,3.333,male,not minority,english,teaching,not formal,color,19,26,lower
+398,82,3.5,57,2.833,male,not minority,english,tenured,not formal,black&white,13,14,lower
+399,82,3.6,57,2.833,male,not minority,english,tenured,not formal,black&white,12,18,lower
+400,82,4.4,57,2.833,male,not minority,english,tenured,not formal,black&white,12,12,lower
+401,82,3.4,57,2.833,male,not minority,english,tenured,not formal,black&white,16,19,lower
+402,82,3.9,57,2.833,male,not minority,english,tenured,not formal,black&white,12,16,lower
+403,82,3.8,57,2.833,male,not minority,english,tenured,not formal,black&white,14,16,lower
+404,82,4.8,57,2.833,male,not minority,english,tenured,not formal,black&white,11,12,lower
+405,82,4.6,57,2.833,male,not minority,english,tenured,not formal,black&white,15,17,lower
+406,82,5,57,2.833,male,not minority,english,tenured,not formal,black&white,6,15,upper
+407,82,3.8,57,2.833,male,not minority,english,tenured,not formal,black&white,15,16,lower
+408,82,4.2,57,2.833,male,not minority,english,tenured,not formal,black&white,12,17,lower
+409,83,3.3,47,6.667,female,not minority,english,teaching,not formal,black&white,16,21,lower
+410,83,4.7,47,6.667,female,not minority,english,teaching,not formal,black&white,15,17,lower
+411,83,4.6,47,6.667,female,not minority,english,teaching,not formal,black&white,10,10,lower
+412,83,4.6,47,6.667,female,not minority,english,teaching,not formal,black&white,16,17,lower
+413,83,4,47,6.667,female,not minority,english,teaching,not formal,black&white,15,17,lower
+414,84,4.2,54,6.833,female,minority,english,tenured,not formal,black&white,18,18,lower
+415,84,4.9,54,6.833,female,minority,english,tenured,not formal,black&white,15,16,lower
+416,84,4.5,54,6.833,female,minority,english,tenured,not formal,black&white,21,26,lower
+417,84,4.8,54,6.833,female,minority,english,tenured,not formal,black&white,14,18,lower
+418,84,3.8,54,6.833,female,minority,english,tenured,not formal,black&white,16,20,lower
+419,85,4.8,58,7.833,male,not minority,english,teaching,not formal,black&white,16,17,lower
+420,85,5,58,7.833,male,not minority,english,teaching,not formal,black&white,21,21,lower
+421,85,5,58,7.833,male,not minority,english,teaching,not formal,black&white,18,21,lower
+422,85,4.9,58,7.833,male,not minority,english,teaching,not formal,black&white,17,20,lower
+423,85,4.6,58,7.833,male,not minority,english,teaching,not formal,black&white,19,20,lower
+424,85,5,58,7.833,male,not minority,english,teaching,not formal,black&white,11,13,lower
+425,85,4.8,58,7.833,male,not minority,english,teaching,not formal,black&white,14,16,lower
+426,85,4.9,58,7.833,male,not minority,english,teaching,not formal,black&white,16,17,lower
+427,86,4.9,42,7.833,male,not minority,english,tenured,not formal,black&white,15,18,lower
+428,86,3.9,42,7.833,male,not minority,english,tenured,not formal,black&white,22,24,lower
+429,86,3.9,42,7.833,male,not minority,english,tenured,not formal,black&white,17,20,upper
+430,87,4.5,33,5.833,male,not minority,english,tenure track,not formal,color,85,120,lower
+431,87,4.5,33,5.833,male,not minority,english,tenure track,not formal,color,67,155,lower
+432,88,3.3,62,2,male,not minority,english,tenured,not formal,color,11,38,lower
+433,88,3.1,62,2,male,not minority,english,tenured,not formal,color,28,70,lower
+434,88,2.8,62,2,male,not minority,english,tenured,not formal,color,61,149,lower
+435,88,3.1,62,2,male,not minority,english,tenured,not formal,color,49,137,lower
+436,88,4.2,62,2,male,not minority,english,tenured,not formal,color,13,29,upper
+437,88,3.4,62,2,male,not minority,english,tenured,not formal,color,28,55,lower
+438,88,3,62,2,male,not minority,english,tenured,not formal,color,67,136,lower
+439,89,3.3,35,7.833,female,minority,english,tenure track,not formal,color,60,96,lower
+440,89,3.6,35,7.833,female,minority,english,tenure track,not formal,color,20,60,lower
+441,89,3.7,35,7.833,female,minority,english,tenure track,not formal,color,43,108,lower
+442,90,3.6,61,3.333,male,not minority,english,tenured,not formal,color,27,39,lower
+443,90,4.3,61,3.333,male,not minority,english,tenured,not formal,color,13,15,lower
+444,91,4.1,52,4.5,female,not minority,english,tenured,not formal,color,61,111,lower
+445,91,4.9,52,4.5,female,not minority,english,tenured,not formal,color,14,17,lower
+446,91,4.8,52,4.5,female,not minority,english,tenured,not formal,color,19,19,lower
+447,92,3.7,60,4.333,female,not minority,non-english,tenure track,formal,black&white,23,27,upper
+448,92,3.9,60,4.333,female,not minority,non-english,tenure track,formal,black&white,18,19,upper
+449,92,4.5,60,4.333,female,not minority,non-english,tenure track,formal,black&white,11,13,upper
+450,92,3.6,60,4.333,female,not minority,non-english,tenure track,formal,black&white,18,19,upper
+451,92,4.4,60,4.333,female,not minority,non-english,tenure track,formal,black&white,11,22,upper
+452,92,3.4,60,4.333,female,not minority,non-english,tenure track,formal,black&white,7,20,upper
+453,92,4.4,60,4.333,female,not minority,non-english,tenure track,formal,black&white,24,27,upper
+454,93,4.5,32,6.833,male,not minority,english,tenure track,not formal,color,98,132,lower
+455,93,4.5,32,6.833,male,not minority,english,tenure track,not formal,color,111,127,lower
+456,93,4.5,32,6.833,male,not minority,english,tenure track,not formal,color,62,85,upper
+457,93,4.6,32,6.833,male,not minority,english,tenure track,not formal,color,76,101,lower
+458,93,4.1,32,6.833,male,not minority,english,tenure track,not formal,color,9,21,lower
+459,93,4.5,32,6.833,male,not minority,english,tenure track,not formal,color,52,86,upper
+460,94,3.5,42,5.333,female,minority,non-english,tenure track,not formal,color,48,84,upper
+461,94,4.4,42,5.333,female,minority,non-english,tenure track,not formal,color,52,67,upper
+462,94,4.4,42,5.333,female,minority,non-english,tenure track,not formal,color,54,66,upper
+463,94,4.1,42,5.333,female,minority,non-english,tenure track,not formal,color,28,35,lower
